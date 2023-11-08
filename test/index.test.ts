@@ -1,5 +1,5 @@
 import { expect, it } from 'vitest'
-import { Queue } from '../src'
+import Queue from '../src'
 
 it('init', () => {
   const q = new Queue()
