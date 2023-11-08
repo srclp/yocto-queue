@@ -7,7 +7,7 @@ class Node {
   }
 }
 
-export class Queue {
+export default class Queue {
   #head: Node | null = null
   #tail: Node | null = null
   #size: number = 0
