@@ -1,7 +1,7 @@
 {
   "name": "@srclp/yocto-queue",
   "type": "module",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "packageManager": "pnpm@8.10.2",
   "description": "remake yocto-queue",
   "author": "Moozon Wei <muzhenweizh@gmail.com>",
